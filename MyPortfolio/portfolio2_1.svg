@@ -1,0 +1,11 @@
+<svg width="350" height="100" viewBox="0 0 350 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Cursive Text -->
+    <text x="50%" y="50%" font-family="'Dancing Script', cursive" font-size="50"
+          fill="#0A192F" text-anchor="middle" dominant-baseline="middle">
+        Portfolio
+    </text>
+
+    <!-- Elegant Underline Stroke -->
+    <path d="M 80 75 Q 175 98, 270 75" stroke="#0A192F" stroke-width="3" fill="transparent" stroke-linecap="round"/>
+</svg>
+
