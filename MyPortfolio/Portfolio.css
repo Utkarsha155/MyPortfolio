@@ -131,7 +131,7 @@ body, html{
     border: 5px solid white;
     height: 442px;
     width: 301px;
-    animation:selfImgAni 3s ease-in-out 0.1s 1;
+    animation:selfImgAni 5s ease-in-out 0.1s 1;
 }
 @keyframes selfImgAni {
     0% {
