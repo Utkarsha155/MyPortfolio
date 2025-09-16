@@ -11,7 +11,7 @@ const Hero = () => {
     { href: 'https://www.linkedin.com/in/utkarsha-fole-619105297', icon: '/linkedin.svg', label: 'LinkedIn' },
     { href: 'https://github.com/Utkarsha155', icon: '/github.svg', label: 'GitHub' },
     { href: 'https://www.codechef.com/users/utkarsha15', icon: '/codechef.svg', label: 'Codechef' },
-    { href: 'https://www.codechef.com/https://leetcode.com/u/OSwu4jY3Lm/', icon: '/leetcode.svg', label: 'Leetcode' }
+    { href: 'https://leetcode.com/u/OSwu4jY3Lm/', icon: '/leetcode.svg', label: 'Leetcode' }
   ]
 
   const scrollToSection = (href) => {
